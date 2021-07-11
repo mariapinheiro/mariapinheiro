@@ -1,4 +1,4 @@
-﻿OLÁ! 
+﻿Olá! 
 
 Meu nome é Maria Eduarda, tenho 15 anos e Moro no Brasil (🇧🇷).
 
@@ -12,8 +12,7 @@ Estou no primeiro ano do ensino médio.
 
 Pronomes: ela/dela
 
-Gosto muito de assistir a jogos de futebol,
-Também faço ballet a 9 anos, é o meu hobbie preferido! :)
+Gosto muito de assistir a jogos de futebol e faço ballet há 9 anos, é o meu hobbie preferido! :)
 
 No meu tempo livre eu leio, ouço minha banda favorita (One Direction) e assisto 
 minha série favorita (Lucifer).
