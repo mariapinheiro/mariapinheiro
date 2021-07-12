@@ -14,6 +14,6 @@
 - [x] Criar sites em html
 - [ ] dominar o mundo
 
-📬 # Para entrar em contato comigo:
+ # 📬 Para entrar em contato comigo:
 ## [ Instagram ] (http://Instagram.com.br/scieduarda).
 ## [ email ] (mariaduardapinheiro37@gmail.com).
