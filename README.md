@@ -1,6 +1,4 @@
-﻿Olá! 
-
-Meu nome é Maria Eduarda, tenho 15 anos e Moro no Brasil (🇧🇷).
+﻿Olá! meu nome é Maria Eduarda, tenho 15 anos e Moro no Brasil (🇧🇷).
 
 Atualmente estou cursando Informatica para Internet, neste curso tenho três 
 disciplinas: Algoritmos e Programação, Projeto e Desenvolvimento de Interfaces
