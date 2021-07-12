@@ -15,5 +15,5 @@
 - [ ] Dominar o mundo
 
  # 📬 Para entrar em contato comigo:
-### (http://Instagram.com.br/scieduarda).
-### (mariaduardapinheiro37@gmail.com).
+### http://Instagram.com.br/scieduarda.
+### mariaduardapinheiro37@gmail.com.
