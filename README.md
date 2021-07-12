@@ -9,7 +9,7 @@
  # ⚽ Quais são os meus hobbies
 ### - Ler, assistir a jogos de futebol e ouvir música
 
-#🗣️ **No que estou interessada?**
+# 🗣️ **No que estou interessada?**
 - [x] Aprender a programar
 - [x] Criar sites em html
 - [ ] dominar o mundo
