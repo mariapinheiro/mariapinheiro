@@ -10,10 +10,10 @@
 ### - Ler, assistir a jogos de futebol e ouvir música
 
 # 🗣️ **No que estou interessada?**
-### - [x] Aprender a programar
-### - [x] Criar sites em html
-### - [ ] dominar o mundo
+- [x] Aprender a programar
+- [x] Criar sites em html 
+- [ ] Dominar o mundo
 
  # 📬 Para entrar em contato comigo:
-### [Instagram] (http://Instagram.com.br/scieduarda).
-### [email] (mariaduardapinheiro37@gmail.com).
+### (http://Instagram.com.br/scieduarda).
+### (mariaduardapinheiro37@gmail.com).
