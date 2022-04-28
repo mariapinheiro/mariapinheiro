@@ -1,7 +1,15 @@
-### Hi there 👋
+#Olá <h1>
+	**Eu me chamo Maria Eduarda e sou estudante do curso de Informática para Internet no CTISM.**
 
-- 🌱 Eu estou aprendendo Projeto de Interfaces Para Web
-- 📫 Como chegar até mim: mariaduardapinheiro37@gmail.com
-- 😄 Pronomes: ela/dela
-- ⚡ Curiosidades: não sei nadar. 
--->
+##Hobbies 
+	Eu gosto de:
+ * Fazer ballet
+ * Jogar gta
+ * Ir ao shopping
+
+##Estou no:
+  [](https://instagram.com/scieduarda)
+  [](https://twitter.com/scieduarda)
+
+ 
+
