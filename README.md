@@ -1,7 +1,7 @@
 # 🦋Bem vindos ao meu perfil!
   ![alt text](https://66.media.tumblr.com/b7c0d35c7a1e48599f333fb533f76a2c/tumblr_ojyaoixkag1w2yq4wo1_500.gif)
 
-_📚Atualmente estou aprendendo:Informatica para Internet no Colégio Técnico Industrial de Santa Maria._
+_📚Atualmente estou aprendendo: Informatica para Internet no Colégio Técnico Industrial de Santa Maria._
 
 ## 📮como chegar até mim:
   **<mariaduardapinheiro37@gmail.com>**
@@ -21,8 +21,8 @@ _📚Atualmente estou aprendendo:Informatica para Internet no Colégio Técnico 
 4. _Tenho 16 anos_
 
 ## redes sociais:
-  <https://instagram.com/scieduarda>
-  <https://twitter.com/scieduarda>
+  * <https://instagram.com/scieduarda>
+  * <https://twitter.com/scieduarda>
 
  
 
