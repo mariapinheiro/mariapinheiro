@@ -1,5 +1,5 @@
 # 🦋Bem vindos ao meu perfil!
-    ![alt text](https://www.google.com/url?sa=i&url=http%3A%2F%2Fsoulme.com.br%2F20-gifs-que-mostram-o-espetaculo-que-e-a-natureza%2F&psig=AOvVaw0oiWC0sm8Oqg5MOa2sLHtP&ust=1652445701808000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCMiZ-bX-2fcCFQAAAAAdAAAAABAD)
+  ![alt text](https://66.media.tumblr.com/b7c0d35c7a1e48599f333fb533f76a2c/tumblr_ojyaoixkag1w2yq4wo1_500.gif)
 
 _📚Atualmente estou aprendendo:Informatica para Internet no Colégio Técnico Industrial de Santa Maria._
 
